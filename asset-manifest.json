@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/insure-landing-page/static/css/main.c551923c.chunk.css",
+    "main.js": "/insure-landing-page/static/js/main.69fe128d.chunk.js",
+    "main.js.map": "/insure-landing-page/static/js/main.69fe128d.chunk.js.map",
+    "runtime-main.js": "/insure-landing-page/static/js/runtime-main.e47dee0f.js",
+    "runtime-main.js.map": "/insure-landing-page/static/js/runtime-main.e47dee0f.js.map",
+    "static/css/2.6544bb92.chunk.css": "/insure-landing-page/static/css/2.6544bb92.chunk.css",
+    "static/js/2.bb8df413.chunk.js": "/insure-landing-page/static/js/2.bb8df413.chunk.js",
+    "static/js/2.bb8df413.chunk.js.map": "/insure-landing-page/static/js/2.bb8df413.chunk.js.map",
+    "static/js/3.d627efd3.chunk.js": "/insure-landing-page/static/js/3.d627efd3.chunk.js",
+    "static/js/3.d627efd3.chunk.js.map": "/insure-landing-page/static/js/3.d627efd3.chunk.js.map",
+    "index.html": "/insure-landing-page/index.html",
+    "static/css/2.6544bb92.chunk.css.map": "/insure-landing-page/static/css/2.6544bb92.chunk.css.map",
+    "static/css/main.c551923c.chunk.css.map": "/insure-landing-page/static/css/main.c551923c.chunk.css.map",
+    "static/js/2.bb8df413.chunk.js.LICENSE.txt": "/insure-landing-page/static/js/2.bb8df413.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/insure-landing-page/static/media/bg-pattern-intro-right-mobile.0354e571.svg",
+    "static/media/font-awesome.css": "/insure-landing-page/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/image-intro-desktop.2f3429f6.jpg": "/insure-landing-page/static/media/image-intro-desktop.2f3429f6.jpg",
+    "static/media/image-intro-mobile.8b8c3185.jpg": "/insure-landing-page/static/media/image-intro-mobile.8b8c3185.jpg",
+    "static/media/logo.b84080a1.svg": "/insure-landing-page/static/media/logo.b84080a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47dee0f.js",
+    "static/css/2.6544bb92.chunk.css",
+    "static/js/2.bb8df413.chunk.js",
+    "static/css/main.c551923c.chunk.css",
+    "static/js/main.69fe128d.chunk.js"
+  ]
+}
